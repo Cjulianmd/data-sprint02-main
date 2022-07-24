@@ -1,13 +1,6 @@
 {
-    "user": [
-        {
-            "id": "1",
-            "name": "Chrisjen",
-            "email": "avasarala@un.com",
-            "phone": "123456789",
-            "password": "1234",
-            "coins": "0"
-        }
+    "usuarios": [
+        
     ],
 
     "quiz": [
